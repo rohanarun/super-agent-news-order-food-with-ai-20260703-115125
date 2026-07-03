@@ -1,0 +1,62 @@
+{
+  "citations": [
+    "[cnbc.com](https://news.google.com/rss/articles/CBMid0FVX3lxTE5WZ0hadmFVbHkwZ2FmZGRHcGZ2b3FPcXdjOXhtN3lGNlRpZFMxak1idFlxUk00bHRXUGVXUGsyZ0QzZjltelo1X01NTGR2MUswZnZVQU1NcVp0Zl9tM1Zwdjd3X1IyaHF2Z3I3UnRhdUxHaFJ0QlJR0gF8QVVfeXFMTUdJMTRKR3MyelB1WHR0NWI4dHhfQ3pSV21RM29oeGlvczdnLVFWTllOSUE1VG5PUlpQa25QNUs4OVI3MVZYMWxBVjk0WHowbk9Qa1dpN2szeEUxLU0xT21Hd0hJdmlyU2lWZ1FxOW9vQk1sRks1WmRwM2tCNA?oc=5)",
+    "[techcrunch.com](https://news.google.com/rss/articles/CBMinwFBVV95cUxNZ1Q1am9qSTFQc1dVaVN0a3JISWhJd1NKZTNDdU8xS1VJTi1fejZwWFEzeWo1ZDJ2U3hUcGFVeF9CWTREdXB4dzNZXzFRRkNJekdSbXIwZVVEN1ZRUmhFUDB0SmFleUJiRmExeDBHbklsaFk3b0FmOEJoMmpiTGpiUlhVb0oxTTcxVFZ2REtqLXNqd2lMd3o5ZDRaTHN5WWs?oc=5)",
+    "[fortune.com](https://news.google.com/rss/articles/CBMiggFBVV95cUxPMGg3S1dGbGY1QzdwamNDSm9jaFNFU3NVVFhzV3A5Yk1VQUpNalFmUFlCcWpIY09jaWdRbGJQRDhtQTlKWXhKalh1aFlRNUdJWlBSWENRaUJnQ2NRUzR6eHU3WElkd0JuV2EzWDNzWkRqQmY0TzJrVUhmLVVacW1mYUhR?oc=5)",
+    "[mybroadband.co.za](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQc0IzMy12T1RyNGRWRXhTX01lMHJLNnVlUGRaVFdiTFB6RmJ5VS1JcFVOWmhBVVpHM2w1SnNJVkVvcG93WHFjQlRLMHNNOXpWUGJ1bWI5NDNrSnV0Qkc3bGF1Y3ptUk9MaWFwRDViaU9vcm1NMURkc0hEQUZ1Z0dSdUZjSG1UeXB3SHU4VXVvOE4xY2Q0U2JiVnJ6MlYySHhuRmNHSzROV3VsdUJGN3RiUUtvVFN2Z0xwWnlOVFF5cG5qUQ?oc=5)",
+    "[globaltimes.cn](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBCNTVOXzM5UDR0MjQxUXg3WHZLN0J4WVNQSlZuS2JVSkVXcWJuYV9pU21sWjRrTndlZWpHdTI5cnpDT0RpTDNhYjdMYjl5UURzVGZHV1BqYjNiM1JpbFNWejBn?oc=5)",
+    "[finance.biggo.com](https://news.google.com/rss/articles/CBMidkFVX3lxTFBZdU5MTDhZb3dMXzZnZXhHakFEYVk4eFgtUkJTeTZUQWJ5dEVCVEROTDZua1E2MmhJWjhwemh5bTg3RE5YZzg2LTAySmt6QnFvSDRnWFlHZlk3UzUzVUJZbXBUR29BSGVHdFdQd0luUlkxRmtsWkE?oc=5)"
+  ],
+  "design_plan": "rng=42; AIDA pass; hero 2\u20133 lines @1120px; bento density verified (grid-auto-flow: dense); label sweep includes all competitors; button contrast checked (black/white pills); animations guarded; cache phrase included twice.",
+  "generated_at": "2026-07-03T11:51:31.953210+00:00",
+  "headline": "Order food with AI \u2014 without babysitting apps",
+  "site_brief": {
+    "audience": "people who want an AI assistant to order meals, groceries, and delivery without babysitting apps",
+    "canonical_url": "https://app.getsupers.com/use-cases/order-food-with-ai/",
+    "cluster_links": [
+      {
+        "slug": "order-food-with-ai",
+        "title": "Order food with AI",
+        "url": "https://app.getsupers.com/use-cases/order-food-with-ai/"
+      },
+      {
+        "slug": "book-rides-with-ai",
+        "title": "Book rides with AI",
+        "url": "https://app.getsupers.com/use-cases/book-rides-with-ai/"
+      },
+      {
+        "slug": "text-message-ai-assistant",
+        "title": "Text message AI assistant",
+        "url": "https://app.getsupers.com/use-cases/text-message-ai-assistant/"
+      },
+      {
+        "slug": "meta-display-ai-assistant",
+        "title": "Meta Display AI assistant",
+        "url": "https://app.getsupers.com/use-cases/meta-display-ai-assistant/"
+      },
+      {
+        "slug": "ai-agent-build-websites",
+        "title": "AI agent to build websites",
+        "url": "https://app.getsupers.com/use-cases/ai-agent-build-websites/"
+      },
+      {
+        "slug": "computer-use-cache",
+        "title": "Computer-use cache",
+        "url": "https://app.getsupers.com/use-cases/computer-use-cache/"
+      }
+    ],
+    "goal": "Create an indexable SEO use-case page in the /use-cases/ cluster. Target the practical query 'Order food with AI', show the exact job-to-be-done, and explain how Super can perform the workflow with real computer use and a reusable computer-use cache. Include sibling use-case links so the cluster feels intentional, crawlable, and useful.",
+    "kind": "use_case",
+    "queries": [
+      "AI assistant order food delivery",
+      "personal AI agent order food",
+      "AI agent groceries delivery",
+      "computer use AI agent ordering food"
+    ],
+    "route_prefix": "use-cases",
+    "slug": "order-food-with-ai",
+    "title": "Order food with AI",
+    "use_case_intent": "show how Super can coordinate food ordering across delivery apps, preferences, addresses, payment confirmation, and repeat orders"
+  },
+  "summary": "This indexable use\u2011case page shows how Super acts as a personal AI agent to order meals and groceries across delivery apps, confirm details with you, and reuse a computer-use cache so repeat orders get faster and cheaper."
+}
